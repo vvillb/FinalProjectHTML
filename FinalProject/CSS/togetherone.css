@@ -1,15 +1,17 @@
 h1{
 	
-	font-size: 400%;
+	font-size: 300%;
 	text-align: center;
-	font-family: "Courier Prime";
+	font-family: "Rubik Dirt";
+	font-variant: small-caps;
+	color: #851623;
 	
 	
 }
 
 header{
 	text-align:center;
-	font-variant: small-caps;
+	
 	font-family: "Courier Prime";
 }
 
@@ -23,11 +25,14 @@ footer{
 	text-align: center;
 	font-family: "Courier Prime";}
 
-body {background-color: #DAF7A6;
+body {background-color: #F7DAA6;
+	margin: 10px 5px;
 	
 }
 
 nav{
 	text-align: center;
 	font-family: Courier Prime;
+	color: #900C3F;
+
 }
