@@ -4,7 +4,7 @@ h1{
 	text-align: center;
 	font-family: "Rubik Dirt";
 	font-variant: small-caps;
-	color: #851623;
+	color: white;
 	
 	
 }
@@ -12,27 +12,34 @@ h1{
 header{
 	text-align:center;
 	
+	color: white;
 	font-family: "Courier Prime";
 }
 
 div{
 	text-align:justify;
 	font-family: "Courier Prime";
-	color: #581845;
+	color: white;
+	margin: 4%;
 }
 
 footer{
 	text-align: center;
 	font-family: "Courier Prime";}
 
-body {background-color: #F7DAA6;
-	margin: 10px 5px;
+body {background-color: black;
+	
 	
 }
 
 nav{
 	text-align: center;
 	font-family: Courier Prime;
-	color: #900C3F;
+	color: white;
 
+}
+
+h3{	
+	display: inline-block;
+	padding-bottom: 10px;
 }
